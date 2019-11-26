@@ -1,5 +1,6 @@
-# Portfolio website RosendoPili.NYC
+# Portfolio 
 
+## RosendoPili.NYC
 * HTML
 * CSS
 * Personal Photography and Graphic Design
